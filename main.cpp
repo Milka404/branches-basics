@@ -18,6 +18,6 @@ int main()
 	cout << b<< "\n";
 	}
 
-	cout <<x+b<<endl<< "\n";
+	cout << x+b <<endl<< "\n";
 	return 0;
 }
