@@ -10,14 +10,5 @@ int main()
 	 {
 	   x+=i;
 	cout << x <<"\n";
-
-	 }
-	for ( int j=0; j<10; j++)
-	{
-	   b+=j;
-	cout << b<< "\n";
-	}
-
-	cout << x+b <<endl<< "\n";
 	return 0;
 }
