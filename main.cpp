@@ -17,7 +17,7 @@ int main()
 	   b+=j;
 	cout << b<< "\n";
 	}
-
+cout<<endl;
 	cout << x+b <<endl<< "\n";
 	return 0;
 }
